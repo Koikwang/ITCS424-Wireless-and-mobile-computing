@@ -1,6 +1,11 @@
 # flutter_application_kpop_start
 
-A new Flutter project.
+ITCS424 Wireless and mobile computing. A flutter project.
+
+Team Members
+6388113 Poomrapee Wareeboutr
+6388133 Pitchaya  Teerawongpairoj
+6388196 Sasima    Srijanya
 
 ## Getting Started
 
