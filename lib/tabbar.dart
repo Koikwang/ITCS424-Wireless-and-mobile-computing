@@ -49,7 +49,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
         baseUrl: 'https://k-pop.p.rapidapi.com/',
         headers: {
           'X-RapidAPI-Key':
-              'b0629dc122msh360a968f7456e73p1d2e96jsnd732c9741c5f',
+              '923e238bf1msh356ff719abd434ap1e98fdjsn1d334f136ea9',
           'X-RapidAPI-Host': 'k-pop.p.rapidapi.com'
         },
       ));
