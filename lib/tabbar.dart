@@ -293,7 +293,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
             Container(
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('assets/K-POP Blood Type 1.jpg'),
+                  image: AssetImage('assets/K-POP_Blood_Type_1.jpg'),
                   fit: BoxFit.cover,
                 ),
               ),

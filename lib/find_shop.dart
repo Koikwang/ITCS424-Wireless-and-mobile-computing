@@ -73,7 +73,6 @@ class _FindShopState extends State<FindShop> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Nearest Kpop Shop'),
-        backgroundColor: Color(0xFF80B0F5),
       ),
       body: GoogleMap(
         onMapCreated: _onMapCreated,
